@@ -1,7 +1,8 @@
 # CS305Mod5_Repo
 Module Repo
 
-This program will increase global tempuratures by 1 degree faranheiht for every execution
+This program will increase global temperatures by 1 degree Fahrenheit for every execution
+FIXED: Spelling for temperatures and Fahrenheit (get a dictionary)
 
 How TO INSTALL:
 Drag and Drop
@@ -35,3 +36,5 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+
